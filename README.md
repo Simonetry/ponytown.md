@@ -22,3 +22,6 @@
 // /* WARNING */
  <br>  > `system_access`
 <br>   > do not request specific alters
+
+<br>✰ Active skin represents alter that's around - so long it's stated "🐇 sys" or "🐇" after
+<br>✰ Often AFK/off-tab, whisper when set on [away] to int
